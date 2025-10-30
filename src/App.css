@@ -1,0 +1,25 @@
+.mainBodyContainer{
+  background-image: url('https://wallpapercave.com/wp/wp3709137.jpg');
+  /* background-color: blue; */
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+}
+.valueCont1{
+  height: 150px;
+  width: 150px;
+  background-color: red;
+}
+.boxes{
+  height: 50px;
+  width: 50px;
+  background-color: aqua;
+}
+.boxContainer1{
+  background-color: #A3CCDA;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+.boxContainer2{
+  background-color: #A3CCDA;
+}

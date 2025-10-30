@@ -1,0 +1,6 @@
+.mainBodyContainer{
+  background-image: url('/WeatherApplication/public/backGroundImg.jpg');
+  background-color: blue;
+  background-size: cover;
+  height: 80vh;
+}
